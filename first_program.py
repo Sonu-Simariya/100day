@@ -14,3 +14,4 @@ a="banana appale mango"
 for i in a:
     print(i,j)
     j+=1
+
