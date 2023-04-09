@@ -28,5 +28,4 @@ def cp(p,r,t):
     print("The compound intreast is: ",ci)
     print("The simple intreast is: ",si)
 cp(10000,10,2)
-
 cp(10000,10,2)
