@@ -5,5 +5,3 @@ print("the addition is: ",a+b,
 "The remaindar is: ",a%b,
 "\nthe multiplication is: ",a*b,
 "\nthe subtraction is: ",a-b)
-
-
