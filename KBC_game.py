@@ -11,9 +11,9 @@ if a==1:
     print("1.67\n 2.45\n 3.89\n 4.45")
     x=int(input("Say answer: "))
     if x==1:
-        print("Correct answer.\nyou won",price[0])
+        print("Correct answer.\nyou won",price[0]) 
     else:
-        print("Ghar ja ","\n the correct answer is: ",ans[1],ans[0])
+        print("Ghar ja ","\n the correct answer is: ",ans[0])
 
 
 elif a==2:
